@@ -1,5 +1,14 @@
 # minim-syntax theme
 
-A short description of your theme.
+A simple, monotone syntax theme for Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+# Installing
+
+Install via `apm` or the Atom UI:
+
+* Installing via `apm`: run  `apm install minim-syntax`
+* Installing via Atom: search for 'minim-syntax', click install on the right package (this one)
+
+![A screenshot of your theme](./javascript.png)
+
+> The font used in this screenshot is Source Code Light
