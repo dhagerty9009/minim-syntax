@@ -1,0 +1,15 @@
+{
+  "name": "minim-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A simple, monotone syntax theme for Atom.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/dhagerty9009/minim-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
